@@ -1,4 +1,4 @@
-# Compression Algorithm and secure transmission over UDP protocol <img src="https://cdn.kastatic.org/ka-perseus-images/cdaa3bfc074058fe11e9fd6dad9ae3f419359372.svg" align="right" width="200" height="200"/>
+# Compression Algorithm and secure transmission over UDP protocol <img src="https://cdn.kastatic.org/ka-perseus-images/cdaa3bfc074058fe11e9fd6dad9ae3f419359372.svg" align="right" height="200"/>
 
 Developed an architecture to compress files, using Huffman compression Algorithm and using secure transmission over UDP Protocol. The main objectives are:
 - To establish a connection between CLIENT and SERVER using socket programming.
